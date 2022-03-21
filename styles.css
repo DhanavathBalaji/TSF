@@ -110,21 +110,21 @@ img{
   text-decoration: none;
 }
 .content1{
-  color: white;
+  color: black;
   position:absolute;
   left:40px;
   top:350px;
 }
 .content2
 {
-  color: white;
+  color: black;
   position:absolute;
   left:40px;
   top:390px;
 }
 .content3
 {
-  color: white;
+  color: black;
   position:absolute;
   left:70px;
   top:480px;
